@@ -1,0 +1,89 @@
+body,html{
+    margin: 0;
+}
+nav.top-bar{
+    background: red;
+    z-index: 0;
+}
+img#im-logo{
+    height: 50px;
+    width: 100px;
+    z-index: 1;
+}
+div.tex{
+    padding-top: 20px;
+    margin-left: 100px;
+
+}
+#lw{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: rgb(63, 63, 63);
+    text-align: center;
+    
+}
+h2{
+    color: rgb(87, 87, 87);
+    
+}
+h3{
+    color: rgb(112, 112, 112); 
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    margin-left: 30%;
+    display: inline-flex;
+}
+div.email{
+    margin: 20px;
+}
+ul,li{
+    margin-left: 0px;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+}
+#email{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#password{
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#email-nao{
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;   
+}
+span{
+    color: red;
+}
+div#dire{
+    text-align: right;
+}
+#lol{
+   background: red;
+   text-align: center;
+   width: 50px;
+   height: 100px;
+
+}
+#ol{
+    background: red;
+    color: black;
+    border-radius: 5px;
+}
+
+
+
+
+
+
